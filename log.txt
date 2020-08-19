@@ -11603,3 +11603,29 @@
 2020-08-19 13:08:03,295 :: _log :: INFO ::  * Restarting with stat
 2020-08-19 13:08:05,071 :: _log :: WARNING ::  * Debugger is active!
 2020-08-19 13:08:05,073 :: _log :: INFO ::  * Debugger PIN: 120-592-441
+2020-08-19 13:50:11,790 :: _log :: INFO ::  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-08-19 13:50:11,791 :: _log :: INFO ::  * Restarting with stat
+2020-08-19 13:50:13,544 :: _log :: WARNING ::  * Debugger is active!
+2020-08-19 13:50:13,546 :: _log :: INFO ::  * Debugger PIN: 120-592-441
+2020-08-19 13:52:04,956 :: _log :: INFO ::  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-08-19 13:52:04,957 :: _log :: INFO ::  * Restarting with stat
+2020-08-19 13:52:06,391 :: _log :: WARNING ::  * Debugger is active!
+2020-08-19 13:52:06,392 :: _log :: INFO ::  * Debugger PIN: 120-592-441
+2020-08-19 13:52:14,408 :: _log :: INFO :: 10.160.31.173 - - [19/Aug/2020 13:52:14] "[37mPOST /login HTTP/1.1[0m" 200 -
+2020-08-19 13:52:16,503 :: _log :: INFO :: 10.160.31.173 - - [19/Aug/2020 13:52:16] "[35m[1mGET /cust_code_list HTTP/1.1[0m" 500 -
+2020-08-19 13:52:51,146 :: _log :: INFO :: 10.160.31.173 - - [19/Aug/2020 13:52:51] "[37mPOST /login HTTP/1.1[0m" 200 -
+2020-08-19 13:52:54,902 :: _log :: INFO :: 10.160.31.173 - - [19/Aug/2020 13:52:54] "[35m[1mGET /cust_code_list HTTP/1.1[0m" 500 -
+2020-08-19 14:00:50,782 :: _log :: INFO ::  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-08-19 14:00:50,783 :: _log :: INFO ::  * Restarting with stat
+2020-08-19 14:00:52,260 :: _log :: WARNING ::  * Debugger is active!
+2020-08-19 14:00:52,260 :: _log :: INFO ::  * Debugger PIN: 120-592-441
+2020-08-19 14:00:59,243 :: _log :: INFO :: 10.160.31.173 - - [19/Aug/2020 14:00:59] "[37mPOST /login HTTP/1.1[0m" 200 -
+2020-08-19 14:01:02,360 :: _log :: INFO :: 10.160.31.173 - - [19/Aug/2020 14:01:02] "[37mGET /cust_code_list HTTP/1.1[0m" 200 -
+2020-08-19 14:01:07,123 :: _log :: INFO :: 10.160.31.173 - - [19/Aug/2020 14:01:07] "[37mPOST /po_template HTTP/1.1[0m" 200 -
+2020-08-19 14:03:08,738 :: _log :: INFO :: 10.160.31.173 - - [19/Aug/2020 14:03:08] "[37mPOST /login HTTP/1.1[0m" 200 -
+2020-08-19 14:03:10,941 :: _log :: INFO :: 10.160.31.173 - - [19/Aug/2020 14:03:10] "[37mGET /cust_code_list HTTP/1.1[0m" 200 -
+2020-08-19 14:03:15,652 :: _log :: INFO :: 10.160.31.173 - - [19/Aug/2020 14:03:15] "[37mPOST /po_template HTTP/1.1[0m" 200 -
+2020-08-19 14:03:41,866 :: _log :: INFO :: 10.160.31.173 - - [19/Aug/2020 14:03:41] "[37mOPTIONS /upload_po_file HTTP/1.1[0m" 200 -
+2020-08-19 14:03:42,192 :: _log :: INFO :: 10.160.31.173 - - [19/Aug/2020 14:03:42] "[35m[1mPOST /upload_po_file HTTP/1.1[0m" 500 -
+2020-08-19 14:04:35,406 :: _log :: INFO :: 10.160.31.173 - - [19/Aug/2020 14:04:35] "[37mOPTIONS /upload_po_file HTTP/1.1[0m" 200 -
+2020-08-19 14:04:35,783 :: _log :: INFO :: 10.160.31.173 - - [19/Aug/2020 14:04:35] "[35m[1mPOST /upload_po_file HTTP/1.1[0m" 500 -
